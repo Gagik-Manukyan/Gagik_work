@@ -1,28 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa99f8a-eeca-4cc3-b45f-bb8a83188dc0" name="Changes" comment="" />
+    <list default="true" id="0fa99f8a-eeca-4cc3-b45f-bb8a83188dc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work11_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work11_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KtWnxoLcrhr43sJKNEQvrnQ6aK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.home_work18.Main">
+    <configuration name="home_work12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work12.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home_work13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work13.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home_work14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work14.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home_work15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work15.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home_work18.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work18.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.home_work18.Main" />
+        <item itemvalue="Application.home_work15.Main" />
+        <item itemvalue="Application.home_work14.Main" />
+        <item itemvalue="Application.home_work13.Main" />
+        <item itemvalue="Application.home_work12.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +153,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674794530895</updated>
+      <workItem from="1674794532459" duration="542000" />
+      <workItem from="1674797951655" duration="2607000" />
+      <workItem from="1674828523240" duration="5173000" />
+      <workItem from="1674837295709" duration="2964000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
